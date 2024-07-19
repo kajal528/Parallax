@@ -3,7 +3,7 @@ import  { Button,ButtonTypes } from "./Button";
 
 const Navigation = () => {
   return (
-    <header className=" flex items-center lg:px-20 md:px-16 px-10 pt-8 pb-4 w-full max-w-[1600px] mx-auto">
+    <header className=" flex items-center lg:px-10 md:px-10 sm:px-10 pt-8 pb-4 w-full max-w-[1920px] sm:mx-auto px-2">
       <h1 className=" text-2xl font-bold">EdTech.</h1>
       <nav className=" mx-auto hidden lg:block">
         <div className=" inline-flex items-center mx-4 gap-1">
