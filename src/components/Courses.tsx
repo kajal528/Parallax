@@ -1,5 +1,3 @@
-import React from 'react'
-import PopularCourses from './PopularCourses'
 import { PopularCoursesConstants } from '../constant/constant'
 import { OpenBook, Star, User } from '../Icons/Icons'
 import Teacher1 from '../assets/teacher-1.jpg'

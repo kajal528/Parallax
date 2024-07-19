@@ -1,5 +1,4 @@
 import Background from './components/Background';
-import Footer from './components/Footer';
 import Hero from './components/Hero';
 import Instructor from './components/Instructor';
 import Navigation from './components/Navigation';

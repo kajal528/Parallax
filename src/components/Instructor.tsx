@@ -1,4 +1,3 @@
-import React from 'react'
 import { InstructorConstants } from '../constant/constant'
 import InstructorImagee from '../assets/Instructor2.jpg'
 

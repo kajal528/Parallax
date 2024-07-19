@@ -47,7 +47,7 @@ const PlayButton: React.FC= () => {
       <div
         className={` w-full h-full rounded-full border-4 border-white bg-gradient-to-br from-primary to-secondary flex items-center justify-center`}
       >
-        <Play />
+        <Play height={'20'} width={'20'} />
       </div>
     </button>
   );
