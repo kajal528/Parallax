@@ -37,7 +37,7 @@ const Hero = () => {
           <div className=" w-[350px] h-[350px] sm:w-[500px] sm:h-[500px] lg:w-[450px] lg:h-[450px] xl:w-[600px] xl:h-[600px] border-2 border-dashed border-primary  rounded-full  relative  z-[-1] mx-auto -translate-y-full">
             <div className=" border-[10px] border-white h-full w-full rounded-full bg-gradient-to-br from-primary to-secondary" />
           </div>
-          <div className=" absolute z-[2] -top-[15%] -left-[5%] sm:top-[10%] sm:-left-[5%] md:left-[5%] md:top-[25%] lg:-top-[8%] lg:left-[5%] xl:left-[5%] xl:top-[25%] ">
+          <div className=" absolute z-[2] -top-[8%] -left-[1%] sm:top-[10%] sm:-left-[5%] md:left-[5%] md:top-[25%] lg:top-0 lg:left-[5%] xl:left-[8%] xl:top-[25%] 2xl:left-[5%] 2xl:top-[25%] ">
             <TopLeftContainer/>
         </div>
         <div className=" absolute z-[2] bottom-0 left-0 sm:bottom-4 sm:left-0 md:bottom-4 md:left-[5%] lg:bottom-0 lg:left-0 xl:bottom-4 xl:left-[5%]  ">

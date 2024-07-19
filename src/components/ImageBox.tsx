@@ -7,7 +7,7 @@ import Student4 from '../assets/student-image-4.jpg'
 
 const ImageBox = () => {
   return (
-    <div className='  image-box  my-4  border-2 border-primary border-dashed px-1 py-1 rounded-[60px] w-full h-96 max-w-[400px]'>
+    <div className='  image-box  mb-4  border-2 border-primary border-dashed px-1 rounded-[60px] w-full h-full max-w-[400px]'>
         <div className=' w-full h-full rounded-[56px]  bg-white grid grid-cols-2 grid-rows-2  gap-1 border-8 border-white'>
             <div className=' text-center w-full h-full rounded-tl-[56px] rounded-br-[56px]'>
                 <img src={Student} alt=""  className=' w-full h-full object-cover object-top rounded-tl-[60px] rounded-br-[60px]'/>
