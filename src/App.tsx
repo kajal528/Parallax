@@ -1,3 +1,4 @@
+import { ParallaxProvider } from 'react-scroll-parallax';
 import Background from './components/Background';
 import Hero from './components/Hero';
 import Instructor from './components/Instructor';
@@ -8,14 +9,14 @@ import SearchCourses from './components/SearchCourses';
 function App() {
   return (
     <>
-      <div>
+      <ParallaxProvider>
         <Navigation />
         <Hero/>
         <SearchCourses/>
         <PopularCourses/>
         <Instructor/>
         <Background/>
-      </div>
+        </ParallaxProvider>
     </>
   );
 }

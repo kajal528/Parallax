@@ -42,7 +42,7 @@ const Footer = () => {
         </div>
         <div className=" mb-4 w-full h-[2px] bg-gradient-to-r from-transparent to-transparent via-white"/>
         <p className=" text-white text-center">
-            Copyright &copy; 2023 Edtech. All rights reserved
+            Copyright &copy; 2024 Edtech. All rights reserved
         </p>
     </footer>
   )
